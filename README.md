@@ -33,11 +33,11 @@ Spotify-Clone/
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/spotify-clone.git
+   git clone https://github.com/NishantChaubey534/music-player.git
    ```
 2. Navigate into the project folder:
    ```bash
-   cd spotify-clone
+   cd music-player
    ```
 3. Open `index.html` in a browser.
 4. Enjoy browsing and playing music!
@@ -79,7 +79,7 @@ This project is licensed under the **MIT License** – feel free to use and modi
 
 ## 📬 Contact
 
-- **GitHub:** [YourUsername](https://github.com/yourusername)
-- **Email:** your.email@example.com
+- **GitHub:** [NishantChaubey534](https://github.com/NishantChaubey534)
+- **Email:** chaubeynishant2@gmail.com
 
 📢 **Star this repo** if you found it helpful! ⭐
