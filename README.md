@@ -24,8 +24,10 @@ Welcome to the **Spotify Clone**, a sleek, responsive, and feature-rich music st
 Spotify-Clone/
 │── index.html        # Main HTML structure
 │── style.css         # Stylesheet (UI & Responsiveness)
-│── script.js         # JavaScript logic
-│── assets/           # Images, icons, and media files
+│── utility.css       # Some utility classes of css
+│── javascript.js     # JavaScript logic
+│── songs             # Albums in which your songs are there
+│── img               # Thumbnails of each songs,Icons 
 └── README.md         # Project documentation
 ```
 
